@@ -1,0 +1,10 @@
+{
+  "@@locale": "zh",
+  "appTitleShort": "VPN",
+  "retry": "重试",
+  "cancel": "取消",
+  "ok": "确定",
+  "close": "关闭",
+  "errorGeneric": "出了点问题。请重试。",
+  "errorNoInternet": "无网络连接。"
+}

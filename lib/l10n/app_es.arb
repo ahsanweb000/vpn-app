@@ -1,0 +1,10 @@
+{
+  "@@locale": "es",
+  "appTitleShort": "VPN",
+  "retry": "Reintentar",
+  "cancel": "Cancelar",
+  "ok": "Aceptar",
+  "close": "Cerrar",
+  "errorGeneric": "Algo salió mal. Inténtalo de nuevo.",
+  "errorNoInternet": "Sin conexión a internet."
+}

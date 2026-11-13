@@ -1,0 +1,10 @@
+{
+  "@@locale": "fr",
+  "appTitleShort": "VPN",
+  "retry": "Réessayer",
+  "cancel": "Annuler",
+  "ok": "OK",
+  "close": "Fermer",
+  "errorGeneric": "Un problème est survenu. Veuillez réessayer.",
+  "errorNoInternet": "Pas de connexion Internet."
+}

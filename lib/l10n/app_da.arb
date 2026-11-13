@@ -1,0 +1,10 @@
+{
+  "@@locale": "da",
+  "appTitleShort": "VPN",
+  "retry": "Prøv igen",
+  "cancel": "Annuller",
+  "ok": "OK",
+  "close": "Luk",
+  "errorGeneric": "Noget gik galt. Prøv venligst igen.",
+  "errorNoInternet": "Ingen internetforbindelse."
+}

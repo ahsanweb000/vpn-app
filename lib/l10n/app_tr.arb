@@ -1,0 +1,10 @@
+{
+  "@@locale": "tr",
+  "appTitleShort": "VPN",
+  "retry": "Tekrar dene",
+  "cancel": "İptal",
+  "ok": "Tamam",
+  "close": "Kapat",
+  "errorGeneric": "Bir sorun oluştu. Lütfen tekrar deneyin.",
+  "errorNoInternet": "İnternet bağlantısı yok."
+}

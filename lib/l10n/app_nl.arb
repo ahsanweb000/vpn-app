@@ -1,0 +1,10 @@
+{
+  "@@locale": "nl",
+  "appTitleShort": "VPN",
+  "retry": "Opnieuw proberen",
+  "cancel": "Annuleren",
+  "ok": "OK",
+  "close": "Sluiten",
+  "errorGeneric": "Er is iets misgegaan. Probeer het opnieuw.",
+  "errorNoInternet": "Geen internetverbinding."
+}

@@ -1,0 +1,10 @@
+{
+  "@@locale": "ko",
+  "appTitleShort": "VPN",
+  "retry": "다시 시도",
+  "cancel": "취소",
+  "ok": "확인",
+  "close": "닫기",
+  "errorGeneric": "문제가 발생했습니다. 다시 시도해 주세요.",
+  "errorNoInternet": "인터넷 연결이 없습니다."
+}

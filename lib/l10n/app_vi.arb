@@ -1,0 +1,10 @@
+{
+  "@@locale": "vi",
+  "appTitleShort": "VPN",
+  "retry": "Thử lại",
+  "cancel": "Hủy",
+  "ok": "OK",
+  "close": "Đóng",
+  "errorGeneric": "Đã xảy ra lỗi. Vui lòng thử lại.",
+  "errorNoInternet": "Không có kết nối Internet."
+}

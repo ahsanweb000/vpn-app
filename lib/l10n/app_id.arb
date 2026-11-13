@@ -1,0 +1,10 @@
+{
+  "@@locale": "id",
+  "appTitleShort": "VPN",
+  "retry": "Coba lagi",
+  "cancel": "Batal",
+  "ok": "Oke",
+  "close": "Tutup",
+  "errorGeneric": "Terjadi kesalahan. Silakan coba lagi.",
+  "errorNoInternet": "Tidak ada koneksi internet."
+}

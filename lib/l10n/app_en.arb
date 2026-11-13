@@ -1,0 +1,31 @@
+{
+  "@@locale": "en",
+  "appTitleShort": "VPN",
+  "@appTitleShort": {
+    "description": "Short application title shown in the app bar"
+  },
+  "retry": "Retry",
+  "@retry": {
+    "description": "Button label to retry an action"
+  },
+  "cancel": "Cancel",
+  "@cancel": {
+    "description": "Generic cancel button label"
+  },
+  "ok": "OK",
+  "@ok": {
+    "description": "Generic OK button label"
+  },
+  "close": "Close",
+  "@close": {
+    "description": "Generic close button label"
+  },
+  "errorGeneric": "Something went wrong. Please try again.",
+  "@errorGeneric": {
+    "description": "Generic error message"
+  },
+  "errorNoInternet": "No internet connection.",
+  "@errorNoInternet": {
+    "description": "Error message when device has no internet connectivity"
+  }
+}

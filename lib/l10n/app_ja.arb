@@ -1,0 +1,10 @@
+{
+  "@@locale": "ja",
+  "appTitleShort": "VPN",
+  "retry": "再試行",
+  "cancel": "キャンセル",
+  "ok": "OK",
+  "close": "閉じる",
+  "errorGeneric": "問題が発生しました。もう一度お試しください。",
+  "errorNoInternet": "インターネット接続がありません。"
+}

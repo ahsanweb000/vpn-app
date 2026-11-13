@@ -1,0 +1,10 @@
+{
+  "@@locale": "cs",
+  "appTitleShort": "VPN",
+  "retry": "Opakovat",
+  "cancel": "Zrušit",
+  "ok": "OK",
+  "close": "Zavřít",
+  "errorGeneric": "Něco se pokazilo. Zkuste to prosím znovu.",
+  "errorNoInternet": "Žádné připojení k internetu."
+}

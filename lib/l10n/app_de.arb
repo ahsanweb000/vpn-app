@@ -1,0 +1,10 @@
+{
+  "@@locale": "de",
+  "appTitleShort": "VPN",
+  "retry": "Wiederholen",
+  "cancel": "Abbrechen",
+  "ok": "OK",
+  "close": "Schließen",
+  "errorGeneric": "Etwas ist schiefgelaufen. Bitte versuche es erneut.",
+  "errorNoInternet": "Keine Internetverbindung."
+}
