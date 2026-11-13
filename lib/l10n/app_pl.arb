@@ -6,5 +6,5 @@
   "ok": "OK",
   "close": "Zamknij",
   "errorGeneric": "Coś poszło nie tak. Spróbuj ponownie.",
-  "errorNoInternet": "Brak connection z internetem."
+  "errorNoInternet": "Brak połączenia z internetem."
 }
